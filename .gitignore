@@ -1,0 +1,25 @@
+## OS X
+.DS_Store
+
+## I use intelij
+.idea
+out/
+
+## in case prof. needs these
+.vscode
+.code-workspace
+
+build/
+nbbuild/
+dist/
+nbproject/
+
+*.class
+*.jar
+*.war
+*.log
+/target/
+hs_err_pid*a
+.project
+.classpath
+.impl
