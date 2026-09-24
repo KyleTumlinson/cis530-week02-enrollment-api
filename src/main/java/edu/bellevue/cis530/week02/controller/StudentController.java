@@ -1,9 +1,9 @@
-package edu.bellvue.cis520.week02.controller;
+package edu.bellevue.cis530.week02.controller;
 
-import edu.bellvue.cis520.week02.model.Student;
+import edu.bellevue.cis530.week02.model.Student;
 import org.springframework.http.HttpStatus;
 import org.springframework.web.bind.annotation.*;
-import edu.bellvue.cis520.week02.service.StudentService;
+import edu.bellevue.cis530.week02.service.StudentService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;
 import java.util.List;

@@ -1,4 +1,4 @@
-package edu.bellvue.cis520.week02.model;
+package edu.bellevue.cis530.week02.model;
 
 import lombok.AllArgsConstructor;
 import lombok.NoArgsConstructor;

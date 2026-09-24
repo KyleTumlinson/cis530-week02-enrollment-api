@@ -1,9 +1,9 @@
-package edu.bellvue.cis520.week02.service;
+package edu.bellevue.cis530.week02.service;
 
-import edu.bellvue.cis520.week02.exception.NoStudentInListException;
-import edu.bellvue.cis520.week02.exception.StudentNotFoundException;
-import edu.bellvue.cis520.week02.repository.StudentRepository;
-import edu.bellvue.cis520.week02.model.Student;
+import edu.bellevue.cis530.week02.exception.NoStudentInListException;
+import edu.bellevue.cis530.week02.exception.StudentNotFoundException;
+import edu.bellevue.cis530.week02.repository.StudentRepository;
+import edu.bellevue.cis530.week02.model.Student;
 
 import org.springframework.stereotype.Service;
 

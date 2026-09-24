@@ -1,6 +1,6 @@
 // Error Response Record to hold information for use in GlobalExceptionHandler
 
-package edu.bellvue.cis520.week02.exception;
+package edu.bellevue.cis530.week02.exception;
 
 import java.time.LocalDateTime;
 
