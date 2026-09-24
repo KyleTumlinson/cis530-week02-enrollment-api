@@ -1,5 +1,5 @@
-package edu.bellvue.cis520.week02.repository;
-import edu.bellvue.cis520.week02.model.Student;
+package edu.bellevue.cis530.week02.repository;
+import edu.bellevue.cis530.week02.model.Student;
 import org.springframework.stereotype.Repository;
 
 import java.util.ArrayList;

@@ -1,6 +1,6 @@
 // Class for catching common exceptions such as StudentNotFoundException
 
-package edu.bellvue.cis520.week02.exception;
+package edu.bellevue.cis530.week02.exception;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.ExceptionHandler;
